@@ -1,4 +1,4 @@
-## Análisis de Retail Store Sales
+## Reporte de Gestión de Ventas
 
 **Dataset:** Retail Store Sales: Dirty for Data Cleaning, publicado en Kaggle por Ahmed Mohamed.
 
