@@ -43,7 +43,7 @@ Para ello, se utilizó un dataset de ventas de supermercado con más de 12.000 r
 
 ## Datos y Pasos Realizados
 
-Se trabajó con un dataset de 12.575 registros, que luego del proceso de limpieza en Power Query quedó conformado por 11.362 registros válidos. Las variables utilizadas para el análisis fueron:
+Se trabajó con un dataset de 12.575 registros. Luego del proceso de limpieza y transformación realizado en Power Query, el conjunto final quedó compuesto por 11.362 registros válidos. Las variables utilizadas para el análisis fueron:
 
 - Transaction_ID, Category, Item, Price Per Unit, Quantity
 
