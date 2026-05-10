@@ -31,7 +31,7 @@ Para ello, se utilizó un dataset de ventas de supermercado con más de 12.000 r
 
 <hr style="height: 3px; background-color: #d2d7db; border: none;">
 
-## Recomendaciones Estratégicas
+## Recomendaciones
 
 - Se recomienda ingresar los datos restantes de enero de 2025 y mantener un proceso de carga de mes completo para evitar falsas alarmas en las métricas.
 
